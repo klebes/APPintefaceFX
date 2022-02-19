@@ -18,3 +18,9 @@
     -fx-min-width:60px;
     -fx-min-height:60px;
 }
+.verde{
+    -fx-text-fill: #0b9e13;
+}
+.vermelho{
+    -fx-text-fill: #df000b;
+}
