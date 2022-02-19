@@ -1,0 +1,20 @@
+.conteudo{
+   -fx-background-color: floralwhite;
+
+}
+.titulo{
+    -fx-text-fill: lightseagreen;
+    -fx-font-size:36px;
+}
+.numero{
+    -fx-text-fill: burlywood;
+    -fx-font-size:28px;
+}
+.botoes{
+    -fx-background-color: darkorange;
+    -fx-font-sise:37px;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 30px;
+    -fx-min-width:60px;
+    -fx-min-height:60px;
+}
